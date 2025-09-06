@@ -41,10 +41,11 @@ The data used for this project can be [here](https://pubchem.ncbi.nlm.nih.gov/as
 
 ## Citation
 (Lamptey <i>et al.,</i> 2025)
+
 Lamptey E., Anyaele G., Arthur H., Adjadeh T., Sagoe D., Hanson G. and Awe O. I. (2025). Machine Learning Prediction of Potential Inhibitors of the Marburg Virus Gene 4 Small ORF Protein using MARVpred. <i>Scientific Reports</i>.
 
 <!--
-Lamptey E., Anyaele G., Arthur H., Adjadeh T., Sagoe D., Hanson G. and Awe O. I. (2025). Machine Learning Prediction of Potential Inhibitors of the Marburg Virus Gene 4 Small ORF Protein using MARVpred. <i>Scientific Reports</i>. 
+Lamptey E., Anyaele G., Arthur H., Adjadeh T., Sagoe D., Hanson G. and Awe O. I. (2025). Machine Learning Prediction of Potential Inhibitors of the Marburg Virus Gene 4 Small ORF Protein using MARVpred. <i>Scientific Reports</i>.
 -->
 
 ## Reporting Issues
