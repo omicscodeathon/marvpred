@@ -1,4 +1,4 @@
-# marburgdrug
+# marvpred
 Machine Learning Prediction of Potential Inhibitors of the Marburg Virus Gene 4 Small ORF Protein using MARVpred
 
 ## Overview
